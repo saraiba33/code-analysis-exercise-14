@@ -19,14 +19,14 @@ function (user){
 
 | Input | Output |
 | ----- | ------ |
-|       |        | 
-|       |        | 
-|       |        | 
+| John-active  | "Welcome back, John!"| 
+| Sam-active   | "Welcome back, Sam!"| 
+| Chris-inactive | "Hey Chris! Would you like to renew your subscription?"        | 
 
 <table>
   <tr>
     <th>What does this program do?</th>
-    <td></td>
+    <td>It is checking the input to see the user has an active subscription or if they need to renew it. If the user is active, it returns greeting for activer user. If the user needs to renew, it returns message to renew subscription. </td>
   </tr>
 </table>
 
