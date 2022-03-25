@@ -19,7 +19,7 @@ function (user){
 
 | Input | Output |
 | ----- | ------ |
-| const user = {username: "John"' isActive: true}  | "Welcome back, John!"| 
+| const user = {username: "John", isActive: true}  | "Welcome back, John!"| 
 | const user = {username: "Sam", isActive: true}   | "Welcome back, Sam!"| 
 | const user = {username: "Chris", isActive: false} | "Hey Chris! Would you like to renew your subscription?" | 
 
