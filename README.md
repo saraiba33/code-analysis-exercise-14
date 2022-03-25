@@ -19,9 +19,9 @@ function (user){
 
 | Input | Output |
 | ----- | ------ |
-| John-active  | "Welcome back, John!"| 
-| Sam-active   | "Welcome back, Sam!"| 
-| Chris-inactive | "Hey Chris! Would you like to renew your subscription?"        | 
+| const user = {usename: "John"' isActive: true}  | "Welcome back, John!"| 
+| const user = {username: "Sam", isActive: true}   | "Welcome back, Sam!"| 
+| const user = {username: "Chris", isActive: false} | "Hey Chris! Would you like to renew your subscription?" | 
 
 <table>
   <tr>
